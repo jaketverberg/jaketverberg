@@ -1,0 +1,4 @@
+- ✌🏻 Hi, I’m @jaketverberg
+- 👀 I’m interested in Fantasy/Sci-Fi Novels/Movies/TV Shows, Camping and Learning.
+- 🌱 I’m currently learning Ruby from the Odin Project and will be learning Ruby on Rails soon.
+- 📫 You can reach me at jaketverberg@gmail.com
